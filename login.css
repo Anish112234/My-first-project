@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 7px;
+    color: beige;
+}
+body{
+    background-color:darkgrey ;
+    background-image: url(space.jpg);
+    background-position: center;
+}
+h1{
+    padding: 30px;
+    color: black;
+}
+.login{
+    display: flex;
+    flex-direction: column;
+     border:  2px solid black;
+     width: 35%;
+     height: 330px;
+     align-items: center;
+     justify-self: center;
+     justify-content: center;
+     margin-top: 200px;
+     border-radius: 7px;
+     backdrop-filter: blur(10px);
+     -webkit-backdrop-filter: blur(10px);
+}
+
+.login:hover{
+    border-color:  skyblue;
+     box-shadow:0 0 7px skyblue,0 0 7px skyblue;
+
+}
+.btn{
+    background-color: transparent;
+    border: 2px solid darkslategray;
+    border-radius: 8px;
+    transition: 0.;
+}
+.btn:hover{
+    border-color: skyblue;
+    box-shadow :0 0 9px aqua;
+    cursor: pointer;
+}
+.text{
+    color: black;
+    background-color: transparent;
+}
+.text:hover{
+    box-shadow: 0 0 9px skyblue;
+}

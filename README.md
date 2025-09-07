@@ -21,14 +21,14 @@
 ## 👨‍💻 Author
 
 **Anish Lamichhane**  
-GitHub: [https://github.com/username](https://github.com/Anish112234)  
+GitHub: [https://github.com/Anish112234](https://github.com/Anish112234)  
 
 ---
 
 ## 📸 Screenshots / Demo
 
-![Screenshot](images/project.jpg)
-![Screenshot](images/pproject.jpg)
+![Screenshot](images/C:\Users\User\OneDrive\Desktop\Semester 3\IT II\My project\project.png)
+![Screenshot](images/pproject.png)
 
 ---
 
@@ -36,5 +36,6 @@ GitHub: [https://github.com/username](https://github.com/Anish112234)
 
 - This is a **personal first project** demonstrating **front-end web design skills**.  
 - All pages are **responsive** and include **hover effects** for better user experience.  
+
 
 
